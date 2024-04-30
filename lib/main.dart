@@ -1,4 +1,4 @@
-import 'package:design_challenge/start_screen.dart';
+import 'package:design_challenge/src/features/start_screen/presentation/start_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
